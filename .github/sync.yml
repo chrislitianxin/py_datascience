@@ -1,1 +1,6 @@
-
+group:
+  - files:
+      - source: README.md
+        dest: README.md
+    repos: |
+      chrislitianxin/adv_ml_tf_gcp
